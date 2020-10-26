@@ -7,10 +7,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Components
 
-- Modified 
-- Delete
-- Create
-- Update
+ - Modified 
+ - Delete
+ - Create
+ - Update
 
+## Demo
 
+ - https://vuthanhvu.github.io/ToDoList-ReactJs/
 
